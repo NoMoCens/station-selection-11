@@ -22,10 +22,12 @@ body, html {
     display: block;
     text-align: center;
     color: white;
+    margin: 0 auto;
 }
 
-.con p {
+p, .con p {
     display: block;
     text-align: center;
     color: white;
+    margin: 0 auto;
 }
