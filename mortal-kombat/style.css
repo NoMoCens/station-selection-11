@@ -17,3 +17,17 @@ body, html {
     padding: 1%;
     border: 1px solid white;
 }
+
+.con {
+    display: block;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
+
+p, .con p {
+    display: block;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
